@@ -141,10 +141,9 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(86, 126, 227)
     }
 },
-Draught = {
+   Draught = {
         SchemeColor = Color3.fromRGB(17, 255, 13),
         Background = Color3.fromRGB(20, 20, 20),
-        Image = "rbxassetid://74846643763089"
         Header = Color3.fromRGB(48, 47, 47),
         TextColor = Color3.fromRGB(255, 0, 0),
         ElementColor = Color3.fromRGB(86, 126, 227)
